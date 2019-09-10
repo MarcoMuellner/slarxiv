@@ -1,0 +1,9 @@
+slack-tangerine
+pyyaml
+python-box
+jinja2
+crontab
+django
+arxiv
+pandas
+slackclient==1.3.1

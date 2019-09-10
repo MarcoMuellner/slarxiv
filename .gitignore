@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+secret.json
+
+.idea/
+
+test_arxiv.py
